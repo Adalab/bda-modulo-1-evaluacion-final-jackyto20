@@ -13,14 +13,3 @@ READMEmd
 Jacqueline Yusty Espinosa https://github.com/jackyto20
 
 
-Jac
-
-
-
-juego_ahorcado.ipyn (Código para el juego del Ahorcado)
-
-juego_trivia.ipynb (Código para el juego del Trivial)
-
-juego_ppt.ipynb (Código para el juego de Piedra, Papel o Tijera)
-
-README.md (Este archivo README con las instrucciones)
